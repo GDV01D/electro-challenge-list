@@ -1,25 +1,32 @@
 [
     {
         "role": "owner",
-        "name": "Void",
-        "link": "https://www.youtube.com/channel/UCSMZg26RyqvsDlWiT6ftfHw"
+        "name": "Void / DomisourusRex",
+        "link": "https://www.youtube.com/@-Gd_Void-"
     },
     {
-        "role": "Admin",
-        "name": "GDMONRO3",
-        "link": "https://www.youtube.com/channel/UCzZEQRb91AYRihxZDml2uKg"
+        "role": "co owner",
+        "name": "DomisourusRex",
+        "link": "https://www.youtube.com/channel/UCZ7KfDBRinSKZVR9rg_sGVg"
     },
     {
-        "role": "Helper",
-        "name": "SHADOW GMD",
-        "link": "https://www.youtube.com/@Shadow_gd420"
+        "role": "admin",
+        "name": "List Admin",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "Trial",
-        "name": "ANOMOLY",
-        "link": "https://www.youtube.com/@AnomalyGMD"
+        "role": "helper",
+        "name": "List Helper",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "trial",
+        "name": "Trial List Helper",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "dev",
-        "name": "Soupy",
-        "link": "https://www.youtube.com/@Yabadabadoo-fr8zc"
+        "name": "List Coder",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    }
+]
