@@ -1,14 +1,9 @@
 [
     {
         "role": "owner",
-        "name": "Void / DomisourusRex",
+        "name": "Void",
         "link": "https://www.youtube.com/@-Gd_Void-"
     },
-    {
-        "role": "dev",
-        "name": "DomisourusRex",
-        "link": "https://www.youtube.com/channel/UCZ7KfDBRinSKZVR9rg_sGVg"
-    }
     {
         "role": "admin",
         "name": "List Admin",
@@ -23,5 +18,10 @@
         "role": "trial",
         "name": "Trial List Helper",
         "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "dev",
+        "name": "DomisourusRex",
+        "link": "https://www.youtube.com/channel/UCZ7KfDBRinSKZVR9rg_sGVg"
     }
 ]
