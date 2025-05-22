@@ -6,22 +6,22 @@
     },
     {
         "role": "admin",
+        "name": "Caleger",
+        "link": "https://www.youtube.com/@Caleger/videos"
+    },
+    {
+        "role": "helper",
         "name": "AnomalyGMD",
         "link": "https://www.youtube.com/@AnomalyGMD"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
         "role": "trial",
-        "name": "mako",
-        "link": "https://www.youtube.com/@rando598"
+        "name": "Nick/AvernusYT",
+        "link": "https://www.youtube.com/channel/UCXTZR6-5qEU8bejkNlb4cPA"
     },
     {
         "role": "dev",
-        "name": "SadCraft0o",
-        "link": "https://www.youtube.com/@sadcraft0o"
+        "name": "Void",
+        "link": "https://www.youtube.com/@-Gd_Void-"
     }
 ]
