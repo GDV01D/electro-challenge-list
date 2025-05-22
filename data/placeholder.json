@@ -1,24 +1,15 @@
 {
     "id": 99489742,
-    "name": "Accismus",
+    "name": "Var1",
     "author": "Void",
     "creators": ["Void"],
     "verifier": "Void",
-    "verification": "https://www.youtube.com/watch?v=lOQhGC_B9O8",
+    "verification": "",
     "percentToQualify": "100",
-    "password": "Not Copyable",
+    "password": "Copyable",
     "records": [    
         {
-            "user": "ughvyugu",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360       
-        },
-        {
-            "user": "DomisorusRex",
-            "link": "https://www.youtube.com/watch?v=_ATmkoBlnw0",
-            "percent": 100,
-            "hz": 240    
+            
         }
     ]
 }
